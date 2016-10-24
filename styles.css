@@ -1,3 +1,25 @@
+a:link {
+	color: purple;
+	}
+a:visited {
+	color: orange;
+	}
+	a:hover {
+		color: yellow;
+		}
+p.vb {
+	border: 6px solid red;
+}
+h1 {
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+nav {
+	padding: 10px;
+	margin: 100px;
+	border: 4px solid green;
+}
+
 body {
-	background: pink;
+	background-image: url("https://thumbs.dreamstime.com/z/volleyballs-20786831.jpg");
 }
